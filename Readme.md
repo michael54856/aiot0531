@@ -9,7 +9,7 @@
 
 
 ### Step 1 : 複製Sample project
-* 使用 **git clone https://github.com/huanchen1107/aiot0530-start-no-token** 複製到自己的local資料夾
+* 使用 **"git clone https://github.com/huanchen1107/aiot0530-start-no-token"** 複製到自己的local資料夾
 * 把local的 \aiot0531\.git 殺掉 (產生自己的git管理員) 方便建立新的git repository 
 * 推送至github 建立新的 aiot0531 https://github.com/michael54856/aiot0531
 
