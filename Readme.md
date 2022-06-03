@@ -5,7 +5,7 @@
 * 註冊 [Heroku](https://markdownlivepreview.com/) 與 [Github]https://github.com/
 * 請下載安裝 [HeidiSQL](https://www.heidisql.com/)
 * 請下載安裝 [Visual Studio Code](https://code.visualstudio.com/)
-* 請下載安裝 [Git](https://code.visualstudio.com/)
+* 請下載安裝 [Git](https://git-scm.com/)
 
 ### step 1 : Clone this github
     * git clone https://github.com/huanchen1107/aiot0530-start-no-token 到 local\aiot0531 folder
