@@ -2,7 +2,7 @@
 ### Author: 4108056018 王旻玄
 
 ### step 0 : 前置作業
-* 註冊 [Heroku](https://markdownlivepreview.com/) 與 [Github]https://github.com/
+* 註冊 [Heroku](https://markdownlivepreview.com/) 與 [Github](https://github.com/)
 * 請下載安裝 [HeidiSQL](https://www.heidisql.com/)
 * 請下載安裝 [Visual Studio Code](https://code.visualstudio.com/)
 * 請下載安裝 [Git](https://git-scm.com/)
