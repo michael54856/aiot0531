@@ -7,10 +7,11 @@
 * 請下載安裝 [Visual Studio Code](https://code.visualstudio.com/)
 * 請下載安裝 [Git](https://git-scm.com/)
 
+
 ### Step 1 : 複製Sample project
-    * git clone https://github.com/huanchen1107/aiot0530-start-no-token 到 local\aiot0531 folder
-    * 把local的 \aiot0531\.git 殺掉 (產生自己的git管理員) 方便建立新的git repository 
-    * 推送至github 建立新的 aiot0531 https://github.com/michael54856/aiot0531
+* 使用 **git clone https://github.com/huanchen1107/aiot0530-start-no-token** 複製到自己的local資料夾
+* 把local的 \aiot0531\.git 殺掉 (產生自己的git管理員) 方便建立新的git repository 
+* 推送至github 建立新的 aiot0531 https://github.com/michael54856/aiot0531
 
 ### Step 2 : install some package
 
