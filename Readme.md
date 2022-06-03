@@ -1,18 +1,18 @@
 # AIoT Flask Web (deploy to heroku)
 ### Author: 4108056018 王旻玄
 
-### step 0 : 前置作業
+### Step 0 : 前置作業
 * 註冊 [Heroku](https://markdownlivepreview.com/) 與 [Github](https://github.com/)
 * 請下載安裝 [HeidiSQL](https://www.heidisql.com/)
 * 請下載安裝 [Visual Studio Code](https://code.visualstudio.com/)
 * 請下載安裝 [Git](https://git-scm.com/)
 
-### step 1 : Clone this github
+### Step 1 : 複製Sample project
     * git clone https://github.com/huanchen1107/aiot0530-start-no-token 到 local\aiot0531 folder
     * 把local的 \aiot0531\.git 殺掉 (產生自己的git管理員) 方便建立新的git repository 
     * 推送至github 建立新的 aiot0531 https://github.com/michael54856/aiot0531
 
-### step 2 : install some package
+### Step 2 : install some package
 
 
 ```python
@@ -25,14 +25,14 @@ pandas
 numpy 
 ```
 
-### step 3: add an heroku postgredb
+### Step 3: add an heroku postgredb
 
 * register heroku account
 * go to dashboard
 * new an app
 * go to resource and add-on an Heroku postgredb
 
-### step 4: login to heroku pstgredb using HeidiSQL
+### Step 4: login to heroku pstgredb using HeidiSQL
 
 
 ```sql
@@ -42,10 +42,10 @@ mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
-### step 5: import postgredb (in db/postgre.db)
+### Step 5: import postgredb (in db/postgre.db)
 
 
-### step 6: setting db in app.py
+### Step 6: setting db in app.py
 
 
 ```sql
@@ -55,16 +55,16 @@ mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
-### step 7: testing locally by running python app.py
+### Step 7: testing locally by running python app.py
 
-### step 8: deploy to github (new private github repositoy)
+### Step 8: deploy to github (new private github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx
 
 
-### step 9: Heroku deploy from github
+### Step 9: Heroku deploy from github
 
-### step 10: Complete
+### Step 10: Complete
 
 Sample link 1:
 https://awinlab-aiot.herokuapp.com/
