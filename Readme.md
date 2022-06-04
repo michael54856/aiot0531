@@ -44,7 +44,7 @@ pip install numpy
 * Plan選擇```Hobby Dev - Free```並點選```Submit Order Form``` <br></br>
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3submitOrder.png">
 
-### Step 4: login to heroku pstgredb using HeidiSQL
+### Step 4: 使用HeidiSQL登入Heroku Postgresdb
 
 * 點選```Heroku Postgres```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4ChoosePostgres.png">
@@ -52,6 +52,11 @@ pip install numpy
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4clickSetting.png">
 * 點選```View Credentials```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4clickCredentials.png">
+* 以下為我們資料庫的登入資訊(**these credentials are not permanent**)
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4LoginInfo.png">
+* 開啟**HeidiSQL**
+* 點選新增
+  
 
 
 ```sql
