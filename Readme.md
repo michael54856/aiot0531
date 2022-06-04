@@ -38,7 +38,7 @@ pip install numpy
 * 登入 [Heroku](https://www.heroku.com/)
 * 前往 [Heroku Dashboard](https://dashboard.heroku.com/apps)
 * 建立一個新的App
-<img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3CreateApp.png" width="50%">
+<img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3CreateApp.png" width="100%">
 * go to resource and add-on an Heroku postgredb
 
 ### Step 4: login to heroku pstgredb using HeidiSQL
