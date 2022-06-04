@@ -33,13 +33,16 @@ pip install pandas
 pip install numpy 
 ```
 
-### Step 3: 創建Heroku App與 Postgredb
+### Step 3: 創建Heroku App與 Postgresdb
 
 * 登入 [Heroku](https://www.heroku.com/)
 * 前往 [Heroku Dashboard](https://dashboard.heroku.com/apps)
 * 建立一個新的App
-<img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3CreateApp.png" width="100%">
-* go to resource and add-on an Heroku postgredb
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3CreateApp.png" width="100%">
+* 點選剛建立的App,前往```Resources```,並在```Add-ons```搜尋```Heroku Postgres```
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3AddPostgres.png" width="100%">
+* Plan選擇```Hobby Dev - Free```,並點選```Submit Order Form```
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3submitOrder.png" width="100%">
 
 ### Step 4: login to heroku pstgredb using HeidiSQL
 
