@@ -69,7 +69,7 @@ pip install numpy
 * 完成後即可看到```Sensor```資料表<br></br>
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5SensorData.png">
 
-### Step 6: 更改app.py的程式,對應到正確的資料庫
+### Step 6: 更改app.py的程式
 
 * 依據上述```credentials登入資訊```修改程式
 ```python
@@ -93,13 +93,12 @@ mydb="d3v9jtquj25jsr"
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step8Deploy_2.png">
 * **成功Deploy**
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step8Deploy_3.png">
+
 ### Step 9: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
+Sample link:
+https://aiot0531mw.herokuapp.com/
 
-Sample link 2: 
-https://aiot0529.herokuapp.com/
 
 
 
