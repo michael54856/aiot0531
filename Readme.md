@@ -89,7 +89,8 @@ mydb="d3v9jtquj25jsr"
 
 * 到```Heroku```點選該APP,並選擇```Deploy```,並搜尋```aiot0531```,之後點選```Connect```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step8Deploy.png">
-
+* 點選```Enable Automatic Deploys```以及```Deploy Branch```
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step8Deploy_2.png">
 ### Step 9: Complete
 
 Sample link 1:
