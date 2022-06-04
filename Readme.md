@@ -66,7 +66,8 @@ pip install numpy
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5SelectPostgres.png" width="50%">
 * 按下執行按鈕
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5ClickStart.png">
-
+* 完成後即可看到```Sensor```資料表<br></br>
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5SensorData.png">
 ### Step 6: setting db in app.py
 
 
