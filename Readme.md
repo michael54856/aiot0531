@@ -12,11 +12,11 @@
 * 使用把Sample Project **"git clone https://github.com/huanchen1107/aiot0530-start-no-token"** 複製到自己的local資料夾
 * 把local資料夾的 .git 檔刪除,方便建立新的git Repository 
 * 推送至github 建立新的 aiot0531 https://github.com/michael54856/aiot0531
-1. 在Visual Studio Code點選 ```Publish to GitHub```
+* 1. 在Visual Studio Code點選 ```Publish to GitHub```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step_1_publishToGithub.png" width="50%">
-2. 點選 ```Publish to GitHub public repository```
+* 2. 點選 ```Publish to GitHub public repository```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step_1_selectPublic.png" width="100%">
-3. 點選 ```OK```
+* 3. 點選 ```OK```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step_1_publishOK.png" width="100%">
 
 ### Step 2 : 安裝必要的Python執行套件
