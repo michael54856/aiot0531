@@ -55,7 +55,7 @@ pip install numpy
 * 以下為我們資料庫的登入資訊(**these credentials are not permanent**)
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4LoginInfo.png">
 * 開啟**HeidiSQL**
-* 點選新增
+* 點選新增 <br></br>
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4New.png">
 
 
