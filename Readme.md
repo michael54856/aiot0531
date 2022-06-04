@@ -10,8 +10,9 @@
 
 ### Step 1 : 複製Sample Project
 * 使用把Sample Project **"git clone https://github.com/huanchen1107/aiot0530-start-no-token"** 複製到自己的local資料夾
-* 把local資料夾的.git刪除,方便建立新的git Repository 
+* 把local資料夾的 .git 檔刪除,方便建立新的git Repository 
 * 推送至github 建立新的 aiot0531 https://github.com/michael54856/aiot0531
+* 1. 在Visual Studio Code點選 ```Publish to GitHub``` [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Step 2 : install some package
 
