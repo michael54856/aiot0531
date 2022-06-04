@@ -41,7 +41,7 @@ pip install numpy
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3CreateApp.png" width="100%">
 * 點選剛建立的App,前往```Resources```,並在```Add-ons```搜尋```Heroku Postgres```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3AddPostgres.png" width="100%">
-* Plan選擇```Hobby Dev - Free```並點選```Submit Order Form```
+* Plan選擇```Hobby Dev - Free```並點選```Submit Order Form``` <br></br>
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3submitOrder.png">
 
 ### Step 4: login to heroku pstgredb using HeidiSQL
