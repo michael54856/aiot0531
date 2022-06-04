@@ -91,6 +91,8 @@ mydb="d3v9jtquj25jsr"
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step8Deploy.png">
 * 點選```Enable Automatic Deploys```以及```Deploy Branch```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step8Deploy_2.png">
+* **成功Deploy**
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step8Deploy_3.png">
 ### Step 9: Complete
 
 Sample link 1:
