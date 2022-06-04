@@ -78,16 +78,16 @@ myuser="eqdhdtrkxcmpwe"
 mypassword="838af34bb43af0d990b514f7d1bf3ebe4ab83fe58e152d9dec1e936b33052436"
 mydb="d3v9jtquj25jsr"
 ```
-### Step 7: locally by running python app.py
+### Step 7: 在本地執行app.py查看結果
 
-### Step 8: deploy to github (new private github repositoy)
+* 成功執行
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step7Success.png">
+* AI也正常運作
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step7CallAI.png">
 
-delete .git and git remote add origin master github.com/xxxxx
+### Step 8: Heroku deploy from github
 
-
-### Step 9: Heroku deploy from github
-
-### Step 10: Complete
+### Step 9: Complete
 
 Sample link 1:
 https://awinlab-aiot.herokuapp.com/
