@@ -56,7 +56,7 @@ pip install numpy
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4LoginInfo.png">
 * 開啟**HeidiSQL**
 * 點選新增
-  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4new.png">
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4New.png">
 
 
 ```sql
