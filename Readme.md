@@ -87,6 +87,9 @@ mydb="d3v9jtquj25jsr"
 
 ### Step 8: Heroku deploy from github
 
+* 到```Heroku```點選該APP,並選擇```Deploy```,並搜尋```aiot0531```,之後點選```Connect```
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step8Deploy.png">
+
 ### Step 9: Complete
 
 Sample link 1:
