@@ -62,8 +62,8 @@ pip install numpy
 
 ### Step 5: 將資料匯入到Postgredb中
 * 載入```./db/postgres.sql```到資料庫中 <br></br>
-  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5LoadSQL.png" height="50%">
-  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5SelectPostgres.png">
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5LoadSQL.png" width="50%">
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5SelectPostgres.png" width="50%">
 
 ### Step 6: setting db in app.py
 
