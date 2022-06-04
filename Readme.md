@@ -33,7 +33,7 @@ pip install pandas
 pip install numpy 
 ```
 
-### Step 3: 創建heroku App與 Postgredb
+### Step 3: 創建Heroku App與 Postgredb
 
 * 登入 [Heroku](https://www.heroku.com/)
 * 前往 [Heroku Dashboard](https://dashboard.heroku.com/apps)
