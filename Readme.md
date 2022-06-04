@@ -2,7 +2,7 @@
 ### Author: 4108056018 王旻玄
 
 ### Step 0 : 前置作業
-* 註冊 [Heroku](https://markdownlivepreview.com/) 與 [Github](https://github.com/)
+* 註冊 [Heroku](https://www.heroku.com/) 與 [Github](https://github.com/)
 * 請下載安裝 [HeidiSQL](https://www.heidisql.com/)
 * 請下載安裝 [Visual Studio Code](https://code.visualstudio.com/)
 * 請下載安裝 [Git](https://git-scm.com/)
@@ -33,11 +33,12 @@ pip install pandas
 pip install numpy 
 ```
 
-### Step 3: add an heroku postgredb
+### Step 3: 創建heroku App與 Postgredb
 
-* register heroku account
-* go to dashboard
-* new an app
+* 登入 [Heroku](https://www.heroku.com/)
+* 前往 [Heroku Dashboard](https://dashboard.heroku.com/apps)
+* 建立一個新的App
+
 * go to resource and add-on an Heroku postgredb
 
 ### Step 4: login to heroku pstgredb using HeidiSQL
