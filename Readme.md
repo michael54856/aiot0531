@@ -60,16 +60,10 @@ pip install numpy
 * 網路類型選擇**PostgreSQL(TCP/IP)** , Library選擇**libpq-12.dll** , 剩下的依照上方的credentials填入並按下```開啟``` <br></br>
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4AddDatabase.png">
 
-
-```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
-
-```
-### Step 5: import postgredb (in db/postgre.db)
-
+### Step 5: 將資料匯入到Postgredb中
+* 載入```./db/postgres.sql```到資料庫中
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5LoadSQL.png">
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5SelectPostgres.png">
 
 ### Step 6: setting db in app.py
 
