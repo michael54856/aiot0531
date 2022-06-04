@@ -24,8 +24,8 @@
 <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step_1_publishOK.png" width="100%">
 
 ```python
-pip insall gunicorn   
-Flask==2.0.1 
+pip intsall gunicorn   
+pip install Flask 
 Jinja2==3.0.1 
 psycopg2 
 sklearn 
