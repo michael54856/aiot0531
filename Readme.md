@@ -47,9 +47,11 @@ pip install numpy
 ### Step 4: login to heroku pstgredb using HeidiSQL
 
 * 點選```Heroku Postgres```
-  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3ChoosePostgres.png">
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4ChoosePostgres.png">
 * 點選```Setting```
-  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step3ChoosePostgres.png">
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4clickSetting.png">
+* 點選```View Credentials```
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4clickCredentials.png">
 
 
 ```sql
