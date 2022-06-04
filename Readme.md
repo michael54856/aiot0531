@@ -68,17 +68,17 @@ pip install numpy
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5ClickStart.png">
 * 完成後即可看到```Sensor```資料表<br></br>
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step5SensorData.png">
-### Step 6: setting db in app.py
 
+### Step 6: 更改app.py的程式,對應到正確的資料庫
 
-```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
-
+* 依據上述```credentials登入資訊```修改程式
+```python
+myserver ="ec2-52-44-13-158.compute-1.amazonaws.com"
+myuser="eqdhdtrkxcmpwe"
+mypassword="838af34bb43af0d990b514f7d1bf3ebe4ab83fe58e152d9dec1e936b33052436"
+mydb="d3v9jtquj25jsr"
 ```
-### Step 7: testing locally by running python app.py
+### Step 7: locally by running python app.py
 
 ### Step 8: deploy to github (new private github repositoy)
 
