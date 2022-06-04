@@ -57,7 +57,7 @@ pip install numpy
 * 開啟**HeidiSQL**
 * 點選新增 <br></br>
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4New.png">
-* 網路類型選擇**PostgreSQL(TCP/IP)** , Library選擇**libpq-12.dll** , 剩下的依照上方的credentials填入 <br></br>
+* 網路類型選擇**PostgreSQL(TCP/IP)** , Library選擇**libpq-12.dll** , 剩下的依照上方的credentials填入並按下```開啟``` <br></br>
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step4addDatabase.png">
 
 
