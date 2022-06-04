@@ -26,11 +26,11 @@
 ```python
 pip intsall gunicorn   
 pip install Flask 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+pip install Jinja2 
+pip install psycopg2 
+pip install sklearn 
+pip install pandas  
+pip install numpy 
 ```
 
 ### Step 3: add an heroku postgredb
