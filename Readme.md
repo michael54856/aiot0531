@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step_1_publishOK.png" width="100%">
 
 ### Step 2 : 安裝必要的Python執行套件
-#### 在Visual Studio Code中打入以下指令
+#### 在Visual Studio Code的Terminal中打入以下指令
 <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step2Install.png" width="100%">
 
 ```python
