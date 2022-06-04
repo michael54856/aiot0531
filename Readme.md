@@ -19,17 +19,17 @@
 * 3. 點選 ```OK```
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step_1_publishOK.png" width="100%">
 
-### Step 2 : install some package
-
-
-```python
-pip insall gunicorn   
-Flask==2.0.1 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+### Step 2 : 安裝必要的Python執行套件
+#### 在Visual Studio Code中打入以下指令
+<img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step_1_publishOK.png" width="100%">
+```
+pip install gunicorn   
+pip install Flask
+pip install Jinja2
+pip install psycopg2 
+pip install sklearn 
+pip install pandas  
+pip install numpy 
 ```
 
 ### Step 3: add an heroku postgredb
