@@ -112,6 +112,9 @@ https://aiot0531mw.herokuapp.com/
 * Call AI也正常運作
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step9CallAI.png">
 
+ 
+## 由於Postgresdb的credentials並不是永久性的,若網頁無法正常顯示請寄信到**michael548562@gmail.com**,我將立即更換credentials即可
+
 
 
 
