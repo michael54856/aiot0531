@@ -108,9 +108,9 @@ Sample link:
 https://aiot0531mw.herokuapp.com/
 
 * 成功開啟網頁
-  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step9CallComplete.png">
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step9Complete.png">
 * Call AI也正常運作
-  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step9CallAI_3.png">
+  <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step9CallAI.png">
 
 
 
