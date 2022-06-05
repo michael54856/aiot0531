@@ -78,6 +78,14 @@ myuser="eqdhdtrkxcmpwe"
 mypassword="838af34bb43af0d990b514f7d1bf3ebe4ab83fe58e152d9dec1e936b33052436"
 mydb="d3v9jtquj25jsr"
 ```
+
+```python
+在以下這個地方(68行)寫入:
+@app.route("/setRandom")
+def getData():
+  c.execute("update sensors set status = RANDOM() where true")
+目的是為了讓每次的Random也能一同改變顏色,而不是沿用上一次的
+```
 ### Step 7: 在本地執行app.py查看結果
 
 * 成功執行
