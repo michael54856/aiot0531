@@ -43,7 +43,6 @@ def getData():
 	# mypassword="test123"
 	# mydb="aiotdb"
 	
-	
 	debug =0
 	from  pandas import DataFrame as df
 	import pandas as pd                     # 引用套件並縮寫為 pd
@@ -66,6 +65,7 @@ def getData():
 	#====== 執行 MySQL 查詢指令 ======#
 	# c.execute("update sensors set value = RAND()*1000 where true")
 	c.execute("update sensors set value = RANDOM()*1000 where true")
+	c.execute("update sensors set status = RANDOM()*2 where true")
 	conn.commit()
 	
 	c.execute("SELECT * FROM sensors")
