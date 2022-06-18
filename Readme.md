@@ -104,8 +104,7 @@ def getData():
 
 ### Step 9: Complete
 
-Sample link:
-https://aiot0531mw.herokuapp.com/
+### Sample link: https://aiot0531mw.herokuapp.com/
 
 * 成功開啟網頁
   <img src="https://raw.githubusercontent.com/michael54856/aiot0531/master/Image/step9Complete.png">
